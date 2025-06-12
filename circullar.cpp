@@ -119,5 +119,7 @@ class Queues
 
 int main()
 {
+    Queues q;
+    char ch;
     
 }
